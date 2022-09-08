@@ -8,4 +8,4 @@ This project does a series of manipulations to JSON values recieved from the Yel
 - A Local Server should be running
 
 ## From Postman
-Run a GET request with the URL and the correct Bearer token: http://localhost:8080/api/YelpController/getReviews/{BearerToken}
+Run a GET request with this URL using the correct Bearer token: http://localhost:8080/api/YelpController/getReviews/{BearerToken}
